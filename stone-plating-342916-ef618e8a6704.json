@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "stone-plating-342916",
+  "private_key_id": "ef618e8a6704a0a876d5c0a80e7f35e9fa8f798b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCk0lvfUfwUgeAw\nAPqNPu3qwOQxBSyVUV7PZRRKUc1pyOyzYo5YK/ZS1Hxt3U8SSLmyuY7/xpT8pkDH\nhh+l6cdVlDjm+iwWijtuFLzM8hiLsq2iHmbhBgUjWLBWvbTWbNoL1OAVGFBXS0jZ\nisRPbALHkxVNcudisZWQCFLoRJNf33ppsHtiwefxiLxMEVTooxQrXYrVgCIsSKkO\nL7hDr0xR7Q1hn39jiGO4avy8cyCE2VEN51pcX6uZ71hvbzQ/D6uA3HpVWltD74vT\n5kJKaY+Hxnk93a96RDnis6P8NeDmoD3j+GjBFYEaSLIxD6/zkaPqEJi08cwGpUXf\nBaKHXf/rAgMBAAECggEAGNd9HLSeT3efvZHNhvpkIOIVF++qtOVVv+Er5LkIQm2+\nge7/JfpCSbZYUWAYvy2851t2WnCoxfJHiIsGPBsh0xvgU60ty0aRsdloTLofHvcS\n79YF4DE9wa0SruWFhbKpo+eKz+3L4MxVB4zAYnlqFdXCUTEEqj26csH+akmOWNWh\n9PzQPU5SGf22cML9t6UT9uvu8FooQo/KGM2FCnPJZ7zc7DqSPLYciVsHsdm1fLNq\np/740it8cEEGvZQ6+5pdnZUK390+bFAmKXqUrfqu/DTswoGZWOKP7Yfaro24SfX6\nl/QhYh2AXIhUGWz1r3nFWPudjMhNyAU3V39ueqeUCQKBgQDnlJs6Yev9CvsRa6sY\nS6lTymhC9Hk6Q30mIXE3dvNLWDhhXBd8GqQSeiA+pBzm0wMuM2adZQ5U2ZzNIW3h\nYxyhu56x9yV8gKZyY4+46JkzvFvwCrQSCBZ1R/rDIufI4kVY4AjiG/pBnZKZS1r3\nDXKGWGV2G3fKLlymgjYBOfTKnwKBgQC2M6Jmo+8zumMMdZEVIAJFYpOGeE1knvBQ\nWGM6MZunhaagBQastuaVPwdkN8OEeNa231VFd6+Bc7eEYu37zuDN3m7U8uXx/wJv\n6phuU9OZYFi0tBLExFRdAvLtUCIJ9gHhjYlTh7gwdoioLFHavnKvb8LlWxkY7bVg\n26es2/HTNQKBgEgK7w+Gjwe1ds3AlQWF5DNw8GaD74K0pCZMmRAMLTvvQfrnz1aI\nYypsW8OhAmy8kGy7CN1GJuM2n5UhJTHMx4d4+rGalUraKu3DE18O3To/CsruSX6i\njXoG3nf+T+UqnzA64giVc5EeGBEgZDgfMtWggk/v06BOM/yI3YwcH485AoGAfPj9\ns5lOQRTfS3R4hxzlceIjfmCV9SZvfyyhIxFTypwJpkjMQztQ/Z213C/Dk+GupNCb\nFIL7hrdwcQXKZqWH3K1tJ/NTdaGMcmdfFo243cMQFSJOnVhs5T9YkR4duudacvM5\n9mlpFRS4t2Fu47MtxtfJvre1hzvE5SLE5/QU8uECgYEA1zPcTBnVlPgsVQglI6BX\nTpklRCVmZfFc8iuD4Ml26bYgG1fvcynA/JoV8MKwkKDy4e0dFeULjwY3sti0QcoL\nb/xxRTqDjXgpL5ZVDDVL2x9njuR325vOVOIvdc7U03Y00DaXSfb0+o/vgmtapXrN\nW3W8e1FqcJAsq0has+H0tX0=\n-----END PRIVATE KEY-----\n",
+  "client_email": "project-2-service@stone-plating-342916.iam.gserviceaccount.com",
+  "client_id": "115127243288166043972",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/project-2-service%40stone-plating-342916.iam.gserviceaccount.com"
+}
